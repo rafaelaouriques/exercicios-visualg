@@ -1,9 +1,7 @@
 algoritmo "olamundo"
 var
 
-
 inicio
-Escreva("Ol·, mundo!")
-
+Escreva("Ol√°, mundo!")
 
 fimalgoritmo
